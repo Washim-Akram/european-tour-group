@@ -1,0 +1,25 @@
+.header-bg {
+  background-image: url(https://img.freepik.com/free-vector/group-tourists-with-suitcases-bags-standing-airport_74855-7437.jpg?size=626&ext=jpg);
+  height: 700px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.header-title {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 60px;
+  font-weight: 500;
+  word-spacing: 15px;
+  letter-spacing: 10px;
+  margin-bottom: 25px;
+}
+
+.header-budget {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 50px;
+  font-style: italic;
+  word-spacing: 5px;
+  letter-spacing: 5px;
+}
